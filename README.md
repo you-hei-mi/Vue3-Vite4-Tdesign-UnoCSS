@@ -16,7 +16,7 @@
 
 ### 项目简介
 
-TDesign Vue Next Starter 是一个基于 TDesign，使用 `Vue3`、`Vite3`、`TypeScript` 开发，可进行个性化主题配置，旨在提供项目开箱即用的、配置式的初始项目。
+基于Vue3+Vite4+Tdesign+UnoCSS 搭建的基础架子TDesign Vue Next Starter 是一个基于 TDesign，使用 `Vue3`、`Vite3`、`TypeScript` 开发，可进行个性化主题配置，旨在提供项目开箱即用的、配置式的初始项目。
 
 <p>
   ·
@@ -44,3 +44,4 @@ npm run build
 ### 开源协议
 
 TDesign 遵循 [MIT 协议](https://github.com/Tencent/tdesign-vue-next-starter/LICENSE)。
+```
